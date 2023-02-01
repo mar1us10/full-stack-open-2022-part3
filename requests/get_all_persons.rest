@@ -1,0 +1,1 @@
+GET https://fso22-phonebook-full-stack.fly.dev/api/persons

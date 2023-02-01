@@ -1,0 +1,7 @@
+POST https://fso22-phonebook-full-stack.fly.dev/api/persons
+Content-Type: application/json
+
+{
+  "name": "James Bond",
+  "number": "007-11111444"
+}

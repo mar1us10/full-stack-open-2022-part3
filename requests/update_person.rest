@@ -1,0 +1,7 @@
+PUT https://fso22-phonebook-full-stack.fly.dev/api/persons/63da99d7955a5e84ed1a879a
+Content-Type: application/json
+
+{ 
+  "name": "Novak Djokovic",
+  "number": "007-007007199"
+}
